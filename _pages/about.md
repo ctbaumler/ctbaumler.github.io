@@ -24,13 +24,13 @@ Finding of ACL 2023<br />
 **[Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution](https://aclanthology.org/2022.naacl-main.250/)**<br /> 
 **Connor Baumler**, Rachel Rudinger<br /> 
 NAACL 2022<br /> 
-[[Paper]](http://ctbaumler.github.io/files/recognition_of_they_them_as_singular_personal_pronouns_in_coreference_resolution.pdf)[[Repo]](https://github.com/ctbaumler/winonb)[[ACL Anthology]](https://aclanthology.org/2022.naacl-main.250/)<br /> 
+[[Paper]](http://ctbaumler.github.io/files/recognition_of_they_them_as_singular_personal_pronouns_in_coreference_resolution.pdf) [[Repo]](https://github.com/ctbaumler/winonb) [[ACL Anthology]](https://aclanthology.org/2022.naacl-main.250/)<br /> 
 <br /> 
 
 **[Hybrid Semantics for Goal-Directed Natural Language Generation](https://aclanthology.org/2022.acl-long.136/)**<br /> 
 **Connor Baumler**, Soumya Ray<br /> 
 ACL 2022<br /> 
-[[Paper]](http://ctbaumler.github.io/files/Hybrid_Semantics_for_Natural_Language_Generation.pdf)[[ACL Anthology]](https://aclanthology.org/2022.acl-long.136/)<br /> 
+[[Paper]](http://ctbaumler.github.io/files/Hybrid_Semantics_for_Natural_Language_Generation.pdf) [[ACL Anthology]](https://aclanthology.org/2022.acl-long.136/)<br /> 
 <br /> 
 
 

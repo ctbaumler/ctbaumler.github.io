@@ -19,6 +19,7 @@ Previously, I did a combined BS/MS in Computer Science (with a secondary major i
 **Which Examples Should be Multiply Annotated? Active Learning When Annotators May Disagree**<br /> 
 **Connor Baumler**\*, Anna Sotnikova\*, Hal Daum&eacute; III<br /> 
 Finding of ACL 2023<br /> 
+[[Paper]](http://ctbaumler.github.io/files/DAAL.pdf)[[Repo]](https://github.com/ctbaumler/daal)<br /> 
 <br /> 
 
 **[Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution](https://aclanthology.org/2022.naacl-main.250/)**<br /> 

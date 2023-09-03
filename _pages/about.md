@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student at the University of Maryland, College Park in the Department of Computer Science advised by Prof. [Hal Daumé III](https://www.umiacs.umd.edu/~hal/). I am broadly interested in fairness, explainability/interpretability, and trust/trustworthiness, especially as they relate to NLP. More specifically, I am interested in fairness from a human-centered perspective. When people interact with a model exhibiting certain biases (or even a "debiased" model), what are the tangible effects/harms on the person? When people work together with a model to make decisions, how can we encourage outcomes that are more fair to the people effected by these decisions? 
+I am a third year Ph.D. student at the University of Maryland, College Park in the Department of Computer Science advised by Prof. [Hal Daumé III](https://www.umiacs.umd.edu/~hal/). I am broadly interested in fairness, explainability/interpretability, and trust/trustworthiness, especially as they relate to NLP. More specifically, I am interested in fairness from a human-centered perspective. When people interact with a model exhibiting certain biases (or even a "debiased" model), what are the tangible effects/harms on the person? When people work together with a model to make decisions, how can we encourage outcomes that are more fair to the people effected by these decisions? 
 
 
 Previously, I did a combined BS/MS in Computer Science (with a secondary major in Japanese Studies and a concentration in AI) at Case Western Reserve University, advised by Prof. [Soumya Ray](http://engr.case.edu/ray_soumya/).

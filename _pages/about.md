@@ -34,11 +34,10 @@ ACL 2022<br />
 [[Paper]](http://ctbaumler.github.io/files/Hybrid_Semantics_for_Natural_Language_Generation.pdf) [[ACL Anthology]](https://aclanthology.org/2022.acl-long.136/)<br /> 
 <br /> 
 
-
-## Workshop Papers
-**[The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features](https://chi-trait.github.io/papers/2023/CHI_TRAIT_2023_Paper_46.pdf)**<br /> 
-Navita Goyal\*, **Connor Baumler**\*, Tin Nguyen, Hal Daum&eacute; III<br /> 
-CHI 2023 Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT)<br /> 
-[[Paper]](https://chi-trait.github.io/papers/2023/CHI_TRAIT_2023_Paper_46.pdf)<br />
+## Preprints
+**[The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features](https://arxiv.org/abs/2310.08617)**<br /> 
+**Connor Baumler**\*, Navita Goyal\*,  Tin Nguyen, Hal Daum&eacute; III<br /> 
+(Workshop version accepted at [CHI 2023 Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT)](https://arxiv.org/abs/2310.08617))<br /> 
+[[arXiv]](https://arxiv.org/abs/2310.08617)<br />
 <br /> 
 

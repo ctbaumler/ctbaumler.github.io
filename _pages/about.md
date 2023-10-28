@@ -37,7 +37,7 @@ ACL 2022<br />
 ## Preprints
 **[The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features](https://arxiv.org/abs/2310.08617)**<br /> 
 **Connor Baumler**\*, Navita Goyal\*,  Tin Nguyen, Hal Daum&eacute; III<br /> 
-(Workshop version accepted at [CHI 2023 Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT)](https://arxiv.org/abs/2310.08617))<br /> 
+(Workshop version accepted at [CHI 2023 Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT)](https://chi-trait.github.io/papers/2023/CHI_TRAIT_2023_Paper_46.pdf))<br /> 
 [[arXiv]](https://arxiv.org/abs/2310.08617)<br />
 <br /> 
 

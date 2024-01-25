@@ -87,6 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V1pX-PwAAAAJ"
+  semanticscholar  : "https://www.semanticscholar.org/author/Connor-Baumler/2165227421"
   email            : "lastname AT umd DOT edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -146,6 +147,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - "unincluded_pages/*"
 keep_files:
   - .git
   - .svn
@@ -176,16 +178,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

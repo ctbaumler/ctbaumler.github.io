@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "IMsG5XQi0awnSQvlT6PNYUD3uQqqYUlg5KKPVvzwEM8"
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ctbaumler"
+  linkedin         : #"ctbaumler"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

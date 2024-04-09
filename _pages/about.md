@@ -16,11 +16,11 @@ Previously, I did a combined BS/MS in Computer Science (with a secondary major i
 
 ## Conference Papers
 
-**[The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features](https://arxiv.org/abs/2310.08617)**<br /> 
+**[The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features](https://dl.acm.org/doi/10.1145/3640543.3645210)**<br /> 
 **Connor Baumler**\*, Navita Goyal\*,  Tin Nguyen, Hal Daum&eacute; III<br /> 
-IUI 2024 (To appear)<br />
+IUI 2024 <br />
 A preliminary version of this paper appeared at the CHI 2023 Workshop on Trust and Reliance in AI-Assisted Tasks (TRAIT).<br /> 
-[[arXiv]](https://arxiv.org/abs/2310.08617)<br />
+[[Paper]](http://ctbaumler.github.io/files/protected_vs_proxy.pdf) [[Repo]](https://github.com/ctbaumler/protected-vs-proxy) [[ACM]](https://dl.acm.org/doi/10.1145/3640543.3645210)<br />
 <br /> 
 
 **[Which Examples Should be Multiply Annotated? Active Learning When Annotators May Disagree](https://aclanthology.org/2023.findings-acl.658/)**<br /> 

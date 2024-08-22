@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student at the University of Maryland, College Park in the Department of Computer Science advised by Prof. [Hal Daumé III](https://www.umiacs.umd.edu/~hal/). My current research focuses on fairness in NLP, human-AI interaction, and their intersection. More broadly, I am interested in fairness, trust/reliance, and interpretability in AI systems. Some questions that I ask in my research are: 
+I am a fourth year Ph.D. student at the University of Maryland, College Park in the Department of Computer Science advised by Prof. [Hal Daumé III](https://www.umiacs.umd.edu/~hal/). My current research focuses on fairness in NLP, human-AI interaction, and their intersection. More broadly, I am interested in fairness, trust/reliance, and interpretability in AI systems. Some questions that I ask in my research are: 
 - When people interact with a model exhibiting certain biases (or even a "debiased" model), what are the tangible effects/harms on the person?
 - When people work together with a model to make decisions, how can we encourage outcomes that are more fair to the people affected by these decisions?
 

@@ -15,7 +15,13 @@ I am a fourth year Ph.D. student at the University of Maryland, College Park in 
 Previously, I did a combined BS/MS in Computer Science (with a secondary major in Japanese Studies and a concentration in AI) at Case Western Reserve University, advised by Prof. [Soumya Ray](http://engr.case.edu/ray_soumya/).
 
 
-## Conference Papers
+## Selected Papers and Preprints
+
+**[Anti-stereotypical Predictive Text Suggestions Do Not Reliably Yield Anti-stereotypical Writing](http://ctbaumler.github.io/files/Anti_stereotypical_Predictive_Text_Suggestions_Do_Not_Reliably_Yield_Anti_stereotypical_Writing.pdf)**<br /> 
+**Connor Baumler** and Hal Daum&eacute; III<br /> 
+2024 <br />
+[[Paper]](http://ctbaumler.github.io/files/Anti_stereotypical_Predictive_Text_Suggestions_Do_Not_Reliably_Yield_Anti_stereotypical_Writing.pdf) [[Repo]](https://github.com/ctbaumler/predictive_text) [[arXiv]](https://arxiv.org/abs/2409.20390)<br />
+<br /> 
 
 **[The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features](https://dl.acm.org/doi/10.1145/3640543.3645210)**<br /> 
 **Connor Baumler**\*, Navita Goyal\*,  Tin Nguyen, Hal Daum&eacute; III<br /> 
@@ -31,16 +37,11 @@ Finding of ACL 2023<br />
 <br /> 
 
 **[Recognition of They/Them as Singular Personal Pronouns in Coreference Resolution](https://aclanthology.org/2022.naacl-main.250/)**<br /> 
-**Connor Baumler**, Rachel Rudinger<br /> 
+**Connor Baumler** and Rachel Rudinger<br /> 
 NAACL 2022<br /> 
 [[Paper]](http://ctbaumler.github.io/files/recognition_of_they_them_as_singular_personal_pronouns_in_coreference_resolution.pdf) [[Repo]](https://github.com/ctbaumler/winonb) [[ACL Anthology]](https://aclanthology.org/2022.naacl-main.250/)<br /> 
 <br /> 
 
-**[Hybrid Semantics for Goal-Directed Natural Language Generation](https://aclanthology.org/2022.acl-long.136/)**<br /> 
-**Connor Baumler**, Soumya Ray<br /> 
-ACL 2022<br /> 
-[[Paper]](http://ctbaumler.github.io/files/Hybrid_Semantics_for_Natural_Language_Generation.pdf) [[ACL Anthology]](https://aclanthology.org/2022.acl-long.136/)<br /> 
-<br /> 
 
 <!-- ## Preprints -->
 
